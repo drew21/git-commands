@@ -1,0 +1,12 @@
+code name-of-folder    #to open in visual code
+git log               # shows the history of what happened in the current repository
+
+git show <commit number>   # show what happened in a commit
+git log -p                 # show what happened in every commit
+
+git log --graph   # shows vizulation of 
+
+git log --grep='example'  #shows commits with example
+git reert  # to revert changes / undo changes
+
+git commit  # dont use -m for a multi line comment
